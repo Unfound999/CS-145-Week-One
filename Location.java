@@ -1,3 +1,12 @@
+// Name: Christopher Waschke, Jackson Jenks, Brody Weinkauf
+// Assignment: Week 1 - OOP
+// Purpose: Find location in double 2d array of largest value.
+// Citation: Class Lectures 1/13/2025, 1/14/2025, 1/15/2025
+
+// Location Manager Class
+// Wraps our methods for interacting with our Location data class.
+
+
 public class Location {
 
     //initialization of variables
@@ -34,7 +43,7 @@ public class Location {
     }
     
     //setter method that equates the new column to the current column
-    public void setcolumn(int newColumn) {
+    public void setColumn(int newColumn) {
 
         this.column = newColumn;
     
