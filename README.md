@@ -1,2 +1,3 @@
 "# CS-145-Week-One" 
 For extra credit, we used a package to group our related classes in the code.
+For more extra credit, here is a video that helped understand GitHub as a beginner.
