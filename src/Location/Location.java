@@ -71,7 +71,7 @@ class LocationManager {
     
     /*
      * static void method, find the largest double within a 2d double array.
-     * Returns the largest double with XY cordinates wrapped within a Location Class.
+     * Returns the largest double with XY coordinates wrapped within a Location Class.
      * Parameters:
      *  valueGrid (2d Double Array): our 2d array that we're looking for the largest value in.
      */
